@@ -75,8 +75,8 @@ body{
     background-image: url('icons/facebook.svg');
 }
 
-.card__icon--whatsapp{
-    background-image: url('icons/whatsapp.svg');
+.card__icon--instagram{
+    background-image: url('icons/instagram.svg');
 }
 
 .card__icon--linkedin{
